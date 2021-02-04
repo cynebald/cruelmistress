@@ -1,11 +1,11 @@
 Cruel Mistress : A Simple Naval Wargame
 ==================
 
-[![GitHub release](https://img.shields.io/github/release/BSData/cruel-mistress.svg?style=flat-square)](https://github.com/BSData/cruel-mistress/releases/latest)
-[![Github commits (since latest release)](https://img.shields.io/github/commits-since/BSData/cruel-mistress/latest.svg?style=flat-square)](https://github.com/BSData/cruel-mistress/releases)
-[![Open Bug issues](https://img.shields.io/github/issues/BSData/cruel-mistress/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/cruel-mistress/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
-[![GitHub contributors](https://img.shields.io/github/contributors/BSData/cruel-mistress.svg?style=flat-square)](https://github.com/BSData/cruel-mistress/graphs/contributors)
-[![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/cruel-mistress.svg?style=flat-square)](https://github.com/BSData/cruel-mistress/pulse/monthly)
+[![GitHub release](https://img.shields.io/github/release/BSData/cruelmistress.svg?style=flat-square)](https://github.com/BSData/cruelmistress/releases/latest)
+[![Github commits (since latest release)](https://img.shields.io/github/commits-since/BSData/cruelmistress/latest.svg?style=flat-square)](https://github.com/BSData/cruelmistress/releases)
+[![Open Bug issues](https://img.shields.io/github/issues/BSData/cruelmistress/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/cruelmistress/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+[![GitHub contributors](https://img.shields.io/github/contributors/BSData/cruelmistress.svg?style=flat-square)](https://github.com/BSData/cruelmistress/graphs/contributors)
+[![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/cruelmistress.svg?style=flat-square)](https://github.com/BSData/cruelmistress/pulse/monthly)
 
 [![Chat on Discord](https://img.shields.io/discord/558412685981777922.svg?logo=discord&style=popout-square)](https://discord.gg/KqPVhds)
 
@@ -42,8 +42,8 @@ Great, thank you! Now, you have some options:
 * [BattleScribe Data on Appspot][]
 * [Getting Started wiki][]
 
-[Report it on Appspot]: http://battlescribedata.appspot.com/#/repo/cruel-mistress
-[Open Issue directly]: https://github.com/BSData/cruel-mistress/issues
+[Report it on Appspot]: http://battlescribedata.appspot.com/#/repo/cruelmistress
+[Open Issue directly]: https://github.com/BSData/cruelmistress/issues
 [BattleScribe homepage]: http://www.battlescribe.net/
 [BattleScribe Data on Appspot]: http://battlescribedata.appspot.com/#/repos
 [Getting Started wiki]: https://github.com/BSData/catalogue-development/wiki/Getting-Started#contributing
