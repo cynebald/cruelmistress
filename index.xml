@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.03" name="Cruel Mistress : A Simple Naval Wargame" indexUrl="https://github.com/cynebald/cruelmistress" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Cruel Mistress  A Simple Naval Wargame.gstz" dataType="gamesystem" dataId="bad0-11e4-fb7a-42ec" dataName="Cruel Mistress : A Simple Naval Wargame" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="United Kingdom.catz" dataType="catalogue" dataId="f4a6-fbdf-e079-4624" dataName="United Kingdom" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="United States of America.catz" dataType="catalogue" dataId="1c5b-24bc-3ec2-af85" dataName="United States of America" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="Germany.catz" dataType="catalogue" dataId="de77-12cb-015a-2a17" dataName="Germany" dataBattleScribeVersion="2.03" dataRevision="6"/>
+  </dataIndexEntries>
+</dataIndex>
